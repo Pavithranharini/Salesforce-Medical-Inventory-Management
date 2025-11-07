@@ -12,4 +12,4 @@ Team member : Divyadharshini K
 
 Team member : Pooja M
 
-You can review full procedure and documentation here: https://drive.google.com/drive/u/4/folders/1b8QwuYThBQ6rBSG_jPoo2JSICJ42x3NU
+You can review full procedure and documentation here: https://drive.google.com/file/d/1LOi-tfFOBBI9nJ2UBfiLCNoscyWZe9VF/view?usp=drive_link
